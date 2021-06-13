@@ -1,0 +1,25 @@
+{
+  "name": "NonSaber",
+  "keywords": ["Lightsaber", "MPU6050", "sound"],
+  "description": "Custom for my lightsaber, fittingly named NonSaber as a play on nonsense.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nonsensible/NonSaber"
+  },
+  "version": "1.0.1",
+  "exclude": "pictures",
+  "authors": {
+    "name": "Andrew Dodson",
+    "email": "trllvds@gmail.com"
+  },
+  "license": "GPL-3.0-or-later",
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "atmelmegaavr",
+    "atmelsam",
+    "espressif8266",
+    "espressif32",
+    "ststm32"
+  ]
+}
